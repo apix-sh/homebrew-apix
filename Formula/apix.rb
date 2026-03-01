@@ -1,8 +1,8 @@
 class Apix < Formula
   desc "API vault CLI"
   homepage "https://github.com/apix-sh/cli"
-  url "https://github.com/apix-sh/cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "564a2c74cedd9beac7dca177e2d882c82d90b90db3759440d517ec5525ce8657"
+  url "https://github.com/apix-sh/cli/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "812cf1bd550862c30cba5a199c088bb7cfa4d6763321f4fee58ee29230616e6a"
   license "MIT"
 
   depends_on "rust" => :build
