@@ -1,4 +1,4 @@
-# homebrew-apix
+# homebrew-tap
 
 Homebrew tap repository contents for [apix](https://github.com/apix-sh/cli).
 
@@ -9,6 +9,6 @@ Homebrew tap repository contents for [apix](https://github.com/apix-sh/cli).
 ## Usage (planned)
 
 ```bash
-brew tap apix-sh/apix
+brew tap apix-sh/tap
 brew install apix
 ```
